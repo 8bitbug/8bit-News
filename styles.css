@@ -1,0 +1,15 @@
+.title {
+  text-align: center;
+  font-size: 50px;
+}
+
+.about {
+  text-align: center;
+}
+
+.Loginbutton {
+  position: absolute;
+  left: 0;
+  width: 35px;
+  height: 25px;
+}
