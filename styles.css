@@ -8,18 +8,7 @@
 }
 
 .Loginbutton {
-  border-style: solid;
-  border-bottom: 2px;
-  border-left: 2px;
-  border-right: 2px;
-  border-top: 2px;
-  border-top-color: black;
-  border-bottom-color: black;
-  border-right-color: black;
-  border-left-color: black;
-  background-color: white;
-  color: white;
-  font-size: 11px;
+  color:black;
 }
 
 .Registeration {
