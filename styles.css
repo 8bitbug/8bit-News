@@ -8,7 +8,7 @@
 }
 
 .Loginbutton {
-  font: bold 11px Arial;
+  font-size: 11px;
   text-decoration: none;
   background-color: #EEEEEE;
   color: #333333;
@@ -17,8 +17,9 @@
   border-right: 1px solid #333333;
   border-bottom: 1px solid #333333;
   border-left: 1px solid #CCCCCC;
-  text-align: center;
+  text-align: left;
 }
+
 .Registeration {
-  zoom: 5;
+  font-size: 50px;
 }
