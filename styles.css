@@ -9,7 +9,11 @@
 
 .Loginbutton {
   position: absolute;
-  left: 0;
-  width: 35px;
-  height: 25px;
+  left: 150px;
+  zoom: 2;
+  font-size: 25px;
+}
+
+.Registeration {
+  zoom: 5;
 }
