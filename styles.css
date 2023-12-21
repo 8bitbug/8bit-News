@@ -1,23 +1,20 @@
+body {
+  background-color: black;
+}
+
 .title {
   text-align: center;
   font-size: 50px;
+  color: black;
 }
 
 .about {
   text-align: center;
+  color: white;
 }
 
 #Login {
-  color: black;
-  font-size: 25px;
   text-align: left;
-  background-color: white;
-  border-style: solid;
-  border-top: 2px;
-  border-left: 2px;
-  border-right: 2px;
-  border-bottom: 2px;
-  border-color: black;
 }
 
 .Registeration {
@@ -31,4 +28,8 @@
   border: 2px;
   border-color: black;
   border-style: solid;
+}
+
+table {
+  color: white;
 }
