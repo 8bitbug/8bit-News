@@ -8,14 +8,14 @@
 }
 
 .Loginbutton {
-  font-size: 11px;
-  color:black;
-  text-align: left;
+  color: black;
+  font-size: 25px;
+  background-color: white;
   border-style: solid;
-  border-bottom: 3px;
-  border-top: 3px;
-  border-left: 2px;
-  border-right: 2px;
+  border: 25px;
+  text-align: left;
+  position: relative;
+  top: auto;
 }
 
 .Registeration {
