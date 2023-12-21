@@ -18,18 +18,16 @@ body {
 }
 
 .Registeration {
-  height: 500px;
-  width: 800px;
+  position: absolute;
+  bottom: 500px;
+  height: 1000px;
+  width: 1500px;
   font-size: 25px;
 }
 
 .account {
-  font-size: 50px;
-  border: 2px;
-  border-color: black;
-  border-style: solid;
-  height: 1000px;
-  width: 1500px;
+  zoom: 5;
+  color: white;
 }
 
 table {
