@@ -26,7 +26,8 @@ body {
 }
 
 .account {
-  zoom: 5;
+  height: 2000px;
+  width: 3000px;
   color: white;
 }
 
