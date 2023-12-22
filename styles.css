@@ -80,3 +80,8 @@ body {
     width: 100%;
     height: auto;
 }
+
+#project {
+  color: white;
+  opacity: 0.5;
+}
