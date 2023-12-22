@@ -1,16 +1,18 @@
 body {
-  background-color: black;
+  background-color: rgb(24, 25, 26);
 }
 
 .title {
   text-align: center;
   font-size: 50px;
   color: white;
+  opacity: 0.5;
 }
 
 .about {
   text-align: center;
   color: white;
+  opacity: 0.5;
 }
 
 #Login {
@@ -20,8 +22,8 @@ body {
 .Registeration {
   position: absolute;
   bottom: 500px;
-  height: 1000px;
-  width: 1500px;
+  height: 2000px;
+  width: 3000px;
   font-size: 25px;
 }
 
@@ -33,4 +35,8 @@ body {
 
 table {
   color: white;
+}
+
+#Contact-information {
+  color:white
 }
