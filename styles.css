@@ -16,7 +16,13 @@ body {
 }
 
 #Login {
+  color: white;
+  opacity: 0.5;
   text-align: left;
+  font-size: 15pxpx;
+  border-bottom: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(78, 72, 72);
 }
 
 .Registeration {
@@ -25,18 +31,32 @@ body {
   height: 2000px;
   width: 3000px;
   font-size: 25px;
+  opacity: 0.5;
 }
 
 .account {
   height: 2000px;
   width: 3000px;
   color: white;
+  opacity: 0.5;
 }
 
 table {
   color: white;
+  opacity: 0.5;
 }
 
 #Contact-information {
   color:white
+  opacity: 0.5;
+}
+
+#Weekly-news {
+  color: white;
+  opacity: 0.5;
+}
+
+#Monthly-news {
+  opacity: 0.5;
+  color: white;
 }
