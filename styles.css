@@ -70,10 +70,13 @@ body {
   opacity: 0.5;
 }
 
-#8bit-news {
+#8bit {
   font-size: 50px;
   color: white;
   opacity: 0.5;
+  border-bottom: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(78, 72, 72);
 }
 
 #Html-CSS {
