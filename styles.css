@@ -21,7 +21,7 @@ body {
 #Login {
   color: white;
   opacity: 0.5;
-  text-align: right;
+  text-align: center;
   font-size: 25px;
   border-bottom: 3px;
   border-bottom-style: solid;
@@ -58,10 +58,10 @@ body {
 }
 
 #News-Navigation {
+  color: white;
+  opacity: 0.5;
   text-align: center;
   font-size: 25px;
-  color:white;
-  opacity: 0.5;
 }
 
 #title-Weekly-News {
@@ -77,8 +77,6 @@ body {
 }
 
 #Html-CSS {
-  box-sizing: border-box;
-  border: 5px solid rgb(78, 72, 72);
     width: 100%;
     height: auto;
 }
