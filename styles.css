@@ -92,3 +92,22 @@ body {
   height: auto;
   width: auto;
 }
+
+.Replit {
+  height: auto;
+  width: auto;
+}
+
+.Unity-p {
+  font-size: 15px;
+  border-top: 1px;
+  border-top-color: rgb(78, 72, 72);
+  border-top-style: solid;
+}
+
+.Replit-p {
+  font-size: 15px;
+  border-top: 1px;
+  border-top-color: rgb(78, 72, 72);
+  border-top-style: solid;
+}
