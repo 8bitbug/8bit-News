@@ -30,18 +30,26 @@ body {
 
 .Registeration {
   color: white;
-  height: 100%;
+  height: auto;
   width: auto;
-  zoom: 2;
-  font-size: 30px;
+  zoom: 3;
+  font-size: 15px;
+  background-color: black;
+  border: 5px;
+  border-style: solid;
+  border-color: white;
 }
 
 .account {
   color: white;
-  height: 100%;
+  height: auto;
   width: auto;
-  zoom: 2;
-  font-size: 30px;
+  zoom: 3;
+  font-size: 15px;
+  background-color: black;
+  border: 5px;
+  border-style: solid;
+  border-color: white;
 }
 
 .Contact-information {
