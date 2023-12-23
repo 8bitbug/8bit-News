@@ -10,12 +10,12 @@ body {
 }
 
 .about {
+  border-bottom: 3px;
+  border-bottom-style: solid;
+  border-bottom-color: rgb(78, 72, 72);
   text-align: center;
   color: white;
   opacity: 0.5;
-  border-bottom-style: solid;
-  border-bottom: 3px;
-  border-bottom-color: rgb(78, 72, 72);
 }
 
 #Login {
@@ -29,20 +29,22 @@ body {
 }
 
 .Registeration {
-  position: absolute;
-  bottom: 500px;
-  height: 2000px;
-  width: 3000px;
-  font-size: 25px;
+  color: white;
+  height: 100%;
+  width: auto;
+  zoom: 4;
+  font-size: 30px;
 }
 
 .account {
-  height: 2000px;
-  width: 3000px;
   color: white;
+  height: 100%;
+  width: auto;
+  zoom: 4;
+  font-size: 30px;
 }
 
-#Contact-information {
+.Contact-information {
   color:white
   opacity: 0.5;
 }
@@ -57,7 +59,7 @@ body {
   color: white;
 }
 
-#News-Navigation {
+.News-Navigation {
   color: white;
   opacity: 0.5;
   text-align: center;
@@ -70,21 +72,23 @@ body {
   opacity: 0.5;
 }
 
-#8bit {
+.project-name {
   font-size: 50px;
   color: white;
   opacity: 0.5;
-  border-bottom: 3px;
-  border-bottom-style: solid;
-  border-bottom-color: rgb(78, 72, 72);
 }
 
 #Html-CSS {
-    width: 100%;
+    width: auto;
     height: auto;
 }
 
 #project {
   color: white;
   opacity: 0.5;
+}
+
+#Unity {
+  height: auto;
+  width: auto;
 }
